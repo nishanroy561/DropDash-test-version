@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import RoleBasedNavbar from '../../components/ui/RoleBasedNavbar';
 import NavigationBreadcrumb from '../../components/ui/NavigationBreadcrumb';
 import Button from '../../components/ui/Button';
-import Input from '../../components/ui/Input';
+import Input from '../../components/ui/input';
 import Icon from '../../components/AppIcon';
 import ConfigurationSection from './components/ConfigurationSection';
 import ThresholdSlider from './components/ThresholdSlider';

@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Icon from '../../../components/AppIcon';
 import Button from '../../../components/ui/Button';
-import Input from '../../../components/ui/Input';
+import Input from '../../../components/ui/input';
 
 const StudentTable = () => {
   const navigate = useNavigate();
